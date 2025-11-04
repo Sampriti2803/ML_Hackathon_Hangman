@@ -1,0 +1,182 @@
+[
+  {
+    "episode": 500,
+    "success_rate": 0.15,
+    "avg_wrong_guesses": 5.62,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": -0.95,
+    "total_wrong": 562,
+    "total_repeated": 0
+  },
+  {
+    "episode": 1000,
+    "success_rate": 0.14,
+    "avg_wrong_guesses": 5.77,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": -1.7,
+    "total_wrong": 577,
+    "total_repeated": 0
+  },
+  {
+    "episode": 1500,
+    "success_rate": 0.27,
+    "avg_wrong_guesses": 5.5,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 11.85,
+    "total_wrong": 550,
+    "total_repeated": 0
+  },
+  {
+    "episode": 2000,
+    "success_rate": 0.2,
+    "avg_wrong_guesses": 5.66,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 4.8,
+    "total_wrong": 566,
+    "total_repeated": 0
+  },
+  {
+    "episode": 2500,
+    "success_rate": 0.2,
+    "avg_wrong_guesses": 5.52,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 5.25,
+    "total_wrong": 552,
+    "total_repeated": 0
+  },
+  {
+    "episode": 3000,
+    "success_rate": 0.21,
+    "avg_wrong_guesses": 5.59,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 5.5,
+    "total_wrong": 559,
+    "total_repeated": 0
+  },
+  {
+    "episode": 3500,
+    "success_rate": 0.19,
+    "avg_wrong_guesses": 5.6,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 2.4,
+    "total_wrong": 560,
+    "total_repeated": 0
+  },
+  {
+    "episode": 4000,
+    "success_rate": 0.13,
+    "avg_wrong_guesses": 5.72,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": -2.85,
+    "total_wrong": 572,
+    "total_repeated": 0
+  },
+  {
+    "episode": 4500,
+    "success_rate": 0.2,
+    "avg_wrong_guesses": 5.51,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 2.45,
+    "total_wrong": 551,
+    "total_repeated": 0
+  },
+  {
+    "episode": 5000,
+    "success_rate": 0.19,
+    "avg_wrong_guesses": 5.65,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 1.75,
+    "total_wrong": 565,
+    "total_repeated": 0
+  },
+  {
+    "episode": 5500,
+    "success_rate": 0.13,
+    "avg_wrong_guesses": 5.73,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": -3.95,
+    "total_wrong": 573,
+    "total_repeated": 0
+  },
+  {
+    "episode": 6000,
+    "success_rate": 0.19,
+    "avg_wrong_guesses": 5.62,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 2.35,
+    "total_wrong": 562,
+    "total_repeated": 0
+  },
+  {
+    "episode": 6500,
+    "success_rate": 0.21,
+    "avg_wrong_guesses": 5.58,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 1.95,
+    "total_wrong": 558,
+    "total_repeated": 0
+  },
+  {
+    "episode": 7000,
+    "success_rate": 0.23,
+    "avg_wrong_guesses": 5.46,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 5.3,
+    "total_wrong": 546,
+    "total_repeated": 0
+  },
+  {
+    "episode": 7500,
+    "success_rate": 0.17,
+    "avg_wrong_guesses": 5.57,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 0.6,
+    "total_wrong": 557,
+    "total_repeated": 0
+  },
+  {
+    "episode": 8000,
+    "success_rate": 0.16,
+    "avg_wrong_guesses": 5.67,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 0.45,
+    "total_wrong": 567,
+    "total_repeated": 0
+  },
+  {
+    "episode": 8500,
+    "success_rate": 0.13,
+    "avg_wrong_guesses": 5.71,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": -2.1,
+    "total_wrong": 571,
+    "total_repeated": 0
+  },
+  {
+    "episode": 9000,
+    "success_rate": 0.18,
+    "avg_wrong_guesses": 5.54,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": -0.35,
+    "total_wrong": 554,
+    "total_repeated": 0
+  },
+  {
+    "episode": 9500,
+    "success_rate": 0.2,
+    "avg_wrong_guesses": 5.61,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": 3.7,
+    "total_wrong": 561,
+    "total_repeated": 0
+  },
+  {
+    "episode": 10000,
+    "success_rate": 0.17,
+    "avg_wrong_guesses": 5.58,
+    "avg_repeated_guesses": 0.0,
+    "avg_reward": -0.6,
+    "total_wrong": 558,
+    "total_repeated": 0
+  }
+]
